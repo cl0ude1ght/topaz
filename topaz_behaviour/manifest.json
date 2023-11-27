@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Topaz",
+		"description": "Topaz Behavior Pack",
+		"uuid": "1290ad24-2332-da77-5d8d-afb2ef793843",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 19, 0]
+	},
+	"metadata": {
+		"authors": ["boo"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.0.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "4084be55-5545-baef-6e07-761831a2dd80",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "bcdd1b18-85ab-7566-d331-912f884f2d66",
+			"version": [1, 0, 0]
+		}
+	]
+}

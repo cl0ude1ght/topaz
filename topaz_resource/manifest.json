@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Topaz",
+		"description": "Topaz Resource Pack",
+		"uuid": "bcdd1b18-85ab-7566-d331-912f884f2d66",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["boo"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.0.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Topaz",
+			"type": "resources",
+			"uuid": "029cdabb-513e-49d3-6018-384229e7d520",
+			"version": [1, 0, 0]
+		}
+	]
+}
